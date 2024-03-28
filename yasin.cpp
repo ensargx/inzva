@@ -1,3 +1,8 @@
+/* 
+ * Problem: Yasin's Running Practice
+ * URL: https://algoleague.com/contest/problem-of-the-week/problem/yasins-running-practice/detail
+ */
+
 #include <bits/stdc++.h>
 
 int main()
